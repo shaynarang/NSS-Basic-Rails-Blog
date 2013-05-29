@@ -6,13 +6,16 @@ Purpose:
 
 Features:
 
-1. Authors can post article
-2. Authors can edit and delete articles
-3. Authors can comment on articles
-4. Authors can reply to comments
-5. Authors can upload media
-6. Visitors can view articles
-7. Authors can moderate comments
+1. Logged-in Users can log in
+2. Logged-in Users can post article
+3. Logged-in Users can edit articles
+4. Logged-in Users can delete articles
+5. Logged-in Users can upload media
+6. Logged-in Users can delete media
+7. General and Logged-in Users can view articles
+8. General and Logged-in Users can comment on articles
+9. General and Logged-in Users Users can reply to comments
+10. Logged-in Users can moderate comments on their articles
 
 Usage:
 
