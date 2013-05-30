@@ -1,41 +1,42 @@
-Basic Rails Blog
+# Basic Rails Blog
 
 This is a basic Rails project for the Nashville Software School.
 
-Purpose:
+## Purpose:
 
-Features:
+## Features:
+<ol>
+<li>1. Logged-in Users can log in</li>
+<li>2. Logged-in Users can post article</li>
+<li>3. Logged-in Users can edit articles</li>
+<li>4. Logged-in Users can delete articles</li>
+<li>5. Logged-in Users can upload media</li>
+<li>6. Logged-in Users can delete media</li>
+<li>7. General and Logged-in Users can view articles</li>
+<li>8. General and Logged-in Users can comment on articles</li>
+<li>9. General and Logged-in Users Users can reply to comments</li>
+<li>10. Logged-in Users can moderate comments on their articles</li>
+</ol>
 
-1. Logged-in Users can log in
-2. Logged-in Users can post article
-3. Logged-in Users can edit articles
-4. Logged-in Users can delete articles
-5. Logged-in Users can upload media
-6. Logged-in Users can delete media
-7. General and Logged-in Users can view articles
-8. General and Logged-in Users can comment on articles
-9. General and Logged-in Users Users can reply to comments
-10. Logged-in Users can moderate comments on their articles
+##Usage:
 
-Usage:
+##To Do:
 
-To Do:
-
-Project Status:
+##Project Status:
 
 This project is currently in the planning stages.
 
-Changelog:
+##Changelog:
 
 2013-05-29: Project started
 
-Known Bugs:
+##Known Bugs:
 
-Author:
+##Author:
 
 Akshay 'Shay' Narang
 
-License:
+##License:
 
 Copyright (c) 2013 Akshay 'Shay' Narang
 
