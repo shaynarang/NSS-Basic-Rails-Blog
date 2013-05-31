@@ -58,5 +58,10 @@ module NSSBasicRailsBlog
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+
+    # Rails own generators are flexible enough to let you customize scaffolding.
+    config.generators do |g|
+      g.test_framework  :test_unit, :fixture => false
+    end
   end
 end
